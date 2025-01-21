@@ -236,78 +236,100 @@ Aqui se verá como funciona el programa y que hace cada opción
 <h1 style="text-align: left;">Usuarios🎓</h1>
 
 **`Login y obtención de token` ✅**  
-![loginUsuario](https://github.com/user-attachments/assets/14ab5975-ec28-4c21-8e0b-68b87c14de33)
+![loginUsuario](https://github.com/user-attachments/assets/a7839b2c-0324-4930-aa3c-aebda816f833)
+
 
 **`Registrar usuario` ✅**  
-![RegistrarUsuario](https://github.com/user-attachments/assets/38667df4-8088-44df-8a0d-3884de6c21de)
+![RegistrarUsuario](https://github.com/user-attachments/assets/43914266-060f-42fe-ae64-b3a4cab7b855)
+
 
 **`Listar usuario` ✅**  
-![listarUsuarios](https://github.com/user-attachments/assets/c4748bd4-df34-44b6-be05-06a897841ca2)
+![listarUsuarios](https://github.com/user-attachments/assets/bdb95c18-9350-4d96-802e-55f2302c2361)
+
 
 **`Actualizar usuario` ✅**  
-![actualizarUsuario](https://github.com/user-attachments/assets/3cbe4dbd-4ebb-4481-b9e8-96c8c9af047d)
+![actualizarUsuario](https://github.com/user-attachments/assets/0ec27a01-c206-483e-a0e2-6c7899745d28)
+
 
 **`Eliminar usuario` ✅**  
-![eliminarUsuario](https://github.com/user-attachments/assets/18c71564-8f13-4765-a2e8-49b809403cd0)
+![eliminarUsuario](https://github.com/user-attachments/assets/769fac3d-8a6d-4c54-a64a-e9407c4e6820)
+
 
 **`Cambios de eliminar y actualizar en listado usuario` ✅**  
-![listado con actualizar y eliminarUsuario](https://github.com/user-attachments/assets/4cf738f1-438b-457f-b771-8c5005a1dd81)
+![listado con actualizar y eliminarUsuario](https://github.com/user-attachments/assets/d46fcd94-7403-4b87-9c0b-9072bb5273d7)
+
 
 ---
 
 <h1 style="text-align: left;">Cursos 📊</h1>
 
 **`Registrar curso` ✅**
-![registrarCurso](https://github.com/user-attachments/assets/7d880083-3c2d-48ec-84d3-278c3c80c84d)
+![registrarCurso](https://github.com/user-attachments/assets/600b96de-cd57-4a48-8ab1-23f144be03f5)
+
 
 **`Listar curso` ✅** 
-![listarCurso](https://github.com/user-attachments/assets/88be983c-c93d-4507-8709-bed725951d30)
+![listarCurso](https://github.com/user-attachments/assets/0f5160b3-1968-4e49-9c1b-21f16ee7cf60)
+
 
 **`Actualizar curso` ✅** 
-![actualizarCurso](https://github.com/user-attachments/assets/f0e7c699-55db-49da-a0b3-7227167b477f)
+![actualizarCurso](https://github.com/user-attachments/assets/e0c5538f-e19c-4e0e-b07d-5592969f348a)
+
 
 **`Eliminar curso` ✅**  
-![eliminarCurso](https://github.com/user-attachments/assets/2967a184-4e0a-443c-ad1c-e6755ded4d66)
+![eliminarCurso](https://github.com/user-attachments/assets/2ce2eb3e-61c0-47d1-958a-78773461f115)
+
 
 **`Cambios de eliminar y actualizar en listado curso` ✅**  
-![listadoCUrso con eliminar y actualziar](https://github.com/user-attachments/assets/e30119d2-b781-4959-a98f-58c0803d1191)
+![listadoCUrso con eliminar y actualziar](https://github.com/user-attachments/assets/34ba32aa-cae1-41c2-bd65-5faad6e2defe)
+
 
 ---
 
 <h1 style="text-align: left;">Topico 🏷️</h1>
 
 **`Registrar topico` ✅**
-![registroTopico](https://github.com/user-attachments/assets/1f975ae5-7d71-406f-91e3-7d7db5f00900)
+![registroTopico](https://github.com/user-attachments/assets/cd364093-8caa-4cbd-803a-1c3a2af3fdb2)
+
 
 **`Listar topico` ✅** 
-![listadoTopico](https://github.com/user-attachments/assets/0beb6a63-90b0-40ce-a226-bf5dcca839a7)
+![listadoTopico](https://github.com/user-attachments/assets/78df2de5-39be-4456-8a0c-f393a6e16b1e)
+
 
 **`Actualizar topico titulo` ✅** 
-![actualizarTitulo](https://github.com/user-attachments/assets/354f3695-2b43-4453-8293-503182288a5e)
+![actualizarTitulo](https://github.com/user-attachments/assets/dbc1ae15-e79e-43d3-ba8b-61c788f5ed2e)
+
 
 **`Actualizar topico mensaje` ✅**   
-![actualizarMensaje](https://github.com/user-attachments/assets/c9ed58fb-44ee-4cdd-909c-ebf3991e51da)
+![actualizarMensaje](https://github.com/user-attachments/assets/5e25403d-f890-486d-a3ce-8c37902fc119)
+
 
 **`Eliminar topico` ✅**  
-![eliminarTopico](https://github.com/user-attachments/assets/5a3d572d-3a72-4a03-9f77-1a871bde14c2)
+![eliminarTopico](https://github.com/user-attachments/assets/76210d91-cfe8-41cd-8309-70a9ce736fe8)
+
 
 **`Cambios de eliminar y actualizar en listado topico` ✅**  
-![listado con eliminar y actualizar](https://github.com/user-attachments/assets/f6bfc81e-70de-44d5-a2a2-3caae8e83dba)
+![listado con eliminar y actualizar](https://github.com/user-attachments/assets/8462c97d-3886-48e4-935d-a73162bb4756)
+
 
 ---
 
 <h1 style="text-align: left;">Respuesta ✅</h1>
 
 **`Registrar respuesta` ✅**
-![registrarRespuesta](https://github.com/user-attachments/assets/614481eb-365f-43d5-bb67-3ac4dab7db65)
+![registrarRespuesta](https://github.com/user-attachments/assets/5bc0ac60-2169-4860-b905-2874f735880d)
+
 
 **`Listar respuesta` ✅** 
-![listarRespuesta](https://github.com/user-attachments/assets/9b946672-460e-4b7f-a9b9-ee663cdab573)
+![listarRespuesta](https://github.com/user-attachments/assets/bf631a02-b987-4ee8-b857-7a84e4eb69a1)
 
 **`Eliminar respuesta` ✅**  
-![eliminarRespuesta](https://github.com/user-attachments/assets/bde15cc9-0594-4d2f-ad64-b64bb8f9ac89)
+![eliminarRespuesta](https://github.com/user-attachments/assets/32a9e63f-4b99-418b-8d54-26e259278fa3)
+
 
 **`Cambios de eliminar en listado respuesta` ✅**
-![listar con eliminar](https://github.com/user-attachments/assets/826d241c-e0e3-459d-9a2d-b263cbbb9123)
+![listar con eliminar](https://github.com/user-attachments/assets/148a2408-ef13-48d5-b1a8-3bdf07fa4487)
 
 ---
+
+
+
