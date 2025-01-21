@@ -4,7 +4,7 @@
 <h1 align="center"> Challenge_Forohub🗨️ </h1>
 
 <h1 style="text-align: left;">Descripcion📝</h1>
-Este proyecto es una aplicacion que crea una API Rest la cual está centrada en un Foro, donde los usuarios pueden publicar consultas referentes a un curso, y pueden recibir respuestas de parte de "administradores" para la duda presentada.🚀
+Este proyecto es una aplicación que crea una API Rest la cual está centrada en un Foro, donde los usuarios pueden publicar consultas referentes a un curso, y pueden recibir respuestas de parte de "administradores" para la duda presentada.🚀
 <h1 style="text-align: left;">Estado del proyecto: Finalizado📎</h1>
 <h1 style="text-align: left;">Tecnologías empleadas📡 </h1>
 
@@ -227,9 +227,9 @@ Indica que los métodos dentro de una clase deben ser ejecutados dentro de una t
 ---
 
 <h1 style="text-align: left;">Validaciones ✅</h1>
-El programa cuenta con validaciones para el correcto funcionamiento del mismo, no se podrán ingresar usuarios los cuales ya esten registrados con el mismo nombre (login) o correo electronico, esto aplica tambien cuando se quiere actualizar un usuario, además, no se podrán listar
-usuarios que no existan mediante su id o nombre de usuario. Tampoco se podrán ingresar topicos con cursos o usuarios que no existen, además de que no se podrá ingresar el mismo titulo y mensaje para evitar spam (aplica para su actualización también). No se podrán listar tópicos 
-que no se encuentren en la base de datos. Por último, no se podrán registrar respuestas las cuales no tengan un topico existente o un usuario al que vincular la respuesta, ademas de que tampoco se listarán respuestas inexistentes por su id.
+El programa cuenta con validaciones para garantizar su correcto funcionamiento. No se podrán ingresar usuarios que ya estén registrados con el mismo nombre de usuario (login) o correo electrónico. Esto también aplica al momento de actualizar un usuario.
+Además, no se podrán listar usuarios que no existan, ya sea mediante su ID o nombre de usuario. Tampoco se podrán registrar tópicos asociados a cursos o usuarios inexistentes. Para evitar spam, no será posible ingresar tópicos con el mismo título y mensaje, y esta restricción también aplica para su actualización. Asimismo, no se podrán listar tópicos que no se encuentren en la base de datos.
+Por último, no se podrán registrar respuestas que no estén vinculadas a un tópico existente o a un usuario. Tampoco será posible listar respuestas inexistentes por su ID.
 
 
 <h1 style="text-align: left;">Capturas del funcionamientos 🎓</h1>
@@ -238,27 +238,33 @@ Aqui se verá como funciona el programa y que hace cada opción
 <h1 style="text-align: left;">Usuarios🎓</h1>
 
 **`Login y obtención de token` ✅**  
-![loginUsuario](https://github.com/user-attachments/assets/a7839b2c-0324-4930-aa3c-aebda816f833)
+![loginUsuario](https://github.com/user-attachments/assets/4e976bc2-e94d-4651-81d6-7add446c58e3)
+
 
 
 **`Registrar usuario` ✅**  
-![RegistrarUsuario](https://github.com/user-attachments/assets/43914266-060f-42fe-ae64-b3a4cab7b855)
+![RegistrarUsuario](https://github.com/user-attachments/assets/780d4f61-5360-4fcc-994a-b458e651b5d3)
+
 
 
 **`Listar usuario` ✅**  
-![listarUsuarios](https://github.com/user-attachments/assets/bdb95c18-9350-4d96-802e-55f2302c2361)
+![listarUsuarios](https://github.com/user-attachments/assets/dd1a81dc-b70d-4e56-8653-acc2282e3c1f)
+
 
 
 **`Actualizar usuario` ✅**  
-![actualizarUsuario](https://github.com/user-attachments/assets/0ec27a01-c206-483e-a0e2-6c7899745d28)
+![actualizarUsuario](https://github.com/user-attachments/assets/e58f94a4-6ca0-4cde-8808-02790018b61b)
+
 
 
 **`Eliminar usuario` ✅**  
-![eliminarUsuario](https://github.com/user-attachments/assets/769fac3d-8a6d-4c54-a64a-e9407c4e6820)
+![eliminarUsuario](https://github.com/user-attachments/assets/8daa8883-3da0-44ae-a832-fe5556340c04)
+
 
 
 **`Cambios de eliminar y actualizar en listado usuario` ✅**  
-![listado con actualizar y eliminarUsuario](https://github.com/user-attachments/assets/d46fcd94-7403-4b87-9c0b-9072bb5273d7)
+![listado con actualizar y eliminarUsuario](https://github.com/user-attachments/assets/b8022302-86f6-4c8a-bc7e-f1b1f5b3854e)
+
 
 
 ---
@@ -266,23 +272,28 @@ Aqui se verá como funciona el programa y que hace cada opción
 <h1 style="text-align: left;">Cursos 📊</h1>
 
 **`Registrar curso` ✅**
-![registrarCurso](https://github.com/user-attachments/assets/600b96de-cd57-4a48-8ab1-23f144be03f5)
+![registrarCurso](https://github.com/user-attachments/assets/89dad8e0-3e14-49b8-ac39-44693ee29570)
+
 
 
 **`Listar curso` ✅** 
-![listarCurso](https://github.com/user-attachments/assets/0f5160b3-1968-4e49-9c1b-21f16ee7cf60)
+![listarCurso](https://github.com/user-attachments/assets/d29fd2ce-a502-4eb5-bd1b-225f924d86f0)
+
 
 
 **`Actualizar curso` ✅** 
-![actualizarCurso](https://github.com/user-attachments/assets/e0c5538f-e19c-4e0e-b07d-5592969f348a)
+![actualizarCurso](https://github.com/user-attachments/assets/a5187a02-0d8c-4864-b003-3aaba8eff112)
+
 
 
 **`Eliminar curso` ✅**  
-![eliminarCurso](https://github.com/user-attachments/assets/2ce2eb3e-61c0-47d1-958a-78773461f115)
+![eliminarCurso](https://github.com/user-attachments/assets/f10bb988-61c1-4681-9619-159d8e2678e7)
+
 
 
 **`Cambios de eliminar y actualizar en listado curso` ✅**  
-![listadoCUrso con eliminar y actualziar](https://github.com/user-attachments/assets/34ba32aa-cae1-41c2-bd65-5faad6e2defe)
+![listadoCUrso con eliminar y actualziar](https://github.com/user-attachments/assets/5ceb3b90-dddd-4168-b87e-ff1ea0d26f04)
+
 
 
 ---
@@ -290,27 +301,30 @@ Aqui se verá como funciona el programa y que hace cada opción
 <h1 style="text-align: left;">Topico 🏷️</h1>
 
 **`Registrar topico` ✅**
-![registroTopico](https://github.com/user-attachments/assets/cd364093-8caa-4cbd-803a-1c3a2af3fdb2)
+![registroTopico](https://github.com/user-attachments/assets/ab2930d9-c4ce-40f8-97ac-ee11b6159c22)
+
 
 
 **`Listar topico` ✅** 
-![listadoTopico](https://github.com/user-attachments/assets/78df2de5-39be-4456-8a0c-f393a6e16b1e)
+![listadoTopico](https://github.com/user-attachments/assets/9358c5d6-8c7a-4a8f-894d-b8554c96df57)
+
 
 
 **`Actualizar topico titulo` ✅** 
-![actualizarTitulo](https://github.com/user-attachments/assets/dbc1ae15-e79e-43d3-ba8b-61c788f5ed2e)
+![actualizarTitulo](https://github.com/user-attachments/assets/4d98a4a8-23a6-4762-a544-1a7f60fea85c)
+
 
 
 **`Actualizar topico mensaje` ✅**   
-![actualizarMensaje](https://github.com/user-attachments/assets/5e25403d-f890-486d-a3ce-8c37902fc119)
+![actualizarMensaje](https://github.com/user-attachments/assets/a8980131-1e4e-4622-8611-07e576eeb86e)
 
 
 **`Eliminar topico` ✅**  
-![eliminarTopico](https://github.com/user-attachments/assets/76210d91-cfe8-41cd-8309-70a9ce736fe8)
+![eliminarTopico](https://github.com/user-attachments/assets/449ab820-d70a-42b4-9b59-8f914376d8ca)
 
 
 **`Cambios de eliminar y actualizar en listado topico` ✅**  
-![listado con eliminar y actualizar](https://github.com/user-attachments/assets/8462c97d-3886-48e4-935d-a73162bb4756)
+![listado con eliminar y actualizar](https://github.com/user-attachments/assets/b5f3c252-4008-4691-bad2-14837db79f63)
 
 
 ---
@@ -318,26 +332,33 @@ Aqui se verá como funciona el programa y que hace cada opción
 <h1 style="text-align: left;">Respuesta ✅</h1>
 
 **`Registrar respuesta` ✅**
-![registrarRespuesta](https://github.com/user-attachments/assets/5bc0ac60-2169-4860-b905-2874f735880d)
+![registrarRespuesta](https://github.com/user-attachments/assets/909c1b96-8614-46fe-ae2a-854892b18979)
+
 
 
 **`Listar respuesta` ✅** 
-![listarRespuesta](https://github.com/user-attachments/assets/bf631a02-b987-4ee8-b857-7a84e4eb69a1)
+![listarRespuesta](https://github.com/user-attachments/assets/e7d65e0c-7b4c-4f88-a752-30a12ed84448)
+
 
 **`Eliminar respuesta` ✅**  
-![eliminarRespuesta](https://github.com/user-attachments/assets/32a9e63f-4b99-418b-8d54-26e259278fa3)
+![eliminarRespuesta](https://github.com/user-attachments/assets/32d30428-806e-4dce-9534-2aa51a853b2d)
+
 
 
 **`Cambios de eliminar en listado respuesta` ✅**
-![listar con eliminar](https://github.com/user-attachments/assets/148a2408-ef13-48d5-b1a8-3bdf07fa4487)
+![listar con eliminar](https://github.com/user-attachments/assets/db65cf36-c781-4ec1-8695-b47d07c0f9a1)
 
 ---
 
 <h1 style="text-align: left;">Consideraciones adicionales📝</h1>
 
-*El programa cuenta con algunas funciones get para cada uno de las entidades, usuarios cuenta con el mostrar de todo los usurios independientemente de si está activo o nomediante la URL: "http://localhost:8080/usuarios/todos".
-tambien se cuenta con la busqueda por nombre "/nombre/{login}" y busqueda por id "/id/{id}". También tenemos más listados con cursos, encontramos el listados de todos los cursos independientemente de su actividad "http://localhost:8080/cursos/todos", ademas de busqueda por Id "/{id}". Tenemos lo mismo con los topicos al listar a todos mediante la URL: "http://localhost:8080/topicos/todos", e igual con la busqeuda del id "/id/{id}". Por ultimo tenemos el de respuesta el cual tiene bsuqeuda por id "http://localhost:8080/respuestas/id/{id}", busqueda por topico /topico/{topico_id} y busqueda por respuestas a usuarios /usuario/{usuario_id}.
+El programa cuenta con algunas funciones get para cada una de las entidades. En el caso de los usuarios, se puede mostrar a todos los usuarios, independientemente de si están activos o no, mediante la URL: http://localhost:8080/usuarios/todos.
+También se cuenta con la búsqueda por nombre (/nombre/{login}) y la búsqueda por ID (/id/{id}). Para los cursos, tenemos el listado de todos los cursos, independientemente de su actividad, en la URL: http://localhost:8080/cursos/todos, además de la búsqueda por ID (/{id}). De manera similar, para los tópicos, se pueden listar todos mediante la URL: http://localhost:8080/topicos/todos y también buscar por ID (/id/{id}). Por último, para las respuestas, tenemos la búsqueda por ID (http://localhost:8080/respuestas/id/{id}), la búsqueda por tópico (/topico/{topico_id}) y la búsqueda de respuestas de un usuario específico (/usuario/{usuario_id}).
 
 ---
-Por otro lado se debe de considerar lo siguiente, al actualizar un usuario debe de actualizar obligatoriamente el usuario y el email, de lo contrario el programa lanzará una excepción, los demas "curso y topico" se deben de actualziar los datos individualmente, por lo que, si se quiere actualizar la categoria del curso, solo se podrá actualizar ese dato y si luego quiere actualizar el titulo de curso lo podrá hacer si lo coloca de manera individual. Esto aplica igual para topico.
+Por otro lado, se debe considerar lo siguiente: al actualizar un usuario, se deben actualizar obligatoriamente el nombre del usuario y el email; de lo contrario, el programa lanzará una excepción.
+
+En cuanto a las demás entidades, como "curso" y "tópico", los datos deben actualizarse de forma individual. Por ejemplo, si se quiere actualizar la categoría del curso, solo se podrá modificar ese dato, y si posteriormente se desea actualizar el título del curso, también se podrá hacer, pero de manera individual.
+
+Esta misma lógica aplica para la entidad "tópico".
 
