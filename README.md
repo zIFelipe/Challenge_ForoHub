@@ -331,5 +331,11 @@ Aqui se verá como funciona el programa y que hace cada opción
 
 ---
 
+<h1 style="text-align: left;">Consideraciones adicionales📝</h1>
 
+*El programa cuenta con algunas funciones get para cada uno de las entidades, usuarios cuenta con el mostrar de todo los usurios independientemente de si está activo o nomediante la URL: "http://localhost:8080/usuarios/todos".
+tambien se cuenta con la busqueda por nombre "/nombre/{login}" y busqueda por id "/id/{id}". También tenemos más listados con cursos, encontramos el listados de todos los cursos independientemente de su actividad "http://localhost:8080/cursos/todos", ademas de busqueda por Id "/{id}". Tenemos lo mismo con los topicos al listar a todos mediante la URL: "http://localhost:8080/topicos/todos", e igual con la busqeuda del id "/id/{id}". Por ultimo tenemos el de respuesta el cual tiene bsuqeuda por id "http://localhost:8080/respuestas/id/{id}", busqueda por topico /topico/{topico_id} y busqueda por respuestas a usuarios /usuario/{usuario_id}.
+
+---
+Por otro lado se debe de considerar lo siguiente, al actualizar un usuario debe de actualizar obligatoriamente el usuario y el email, de lo contrario el programa lanzará una excepción, los demas "curso y topico" se deben de actualziar los datos individualmente, por lo que, si se quiere actualizar la categoria del curso, solo se podrá actualizar ese dato y si luego quiere actualizar el titulo de curso lo podrá hacer si lo coloca de manera individual. Esto aplica igual para topico.
 
